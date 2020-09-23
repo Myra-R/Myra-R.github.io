@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    background-image: url("https://media.istockphoto.com/photos/blue-abstract-background-or-texture-picture-id1138395421?k=6&m=1138395421&s=612x612&w=0&h=bJ1SRWujCgg3QWzkGPgaRiArNYohPl7-Wc4p_Fa_cyA=" style="max-width:100%;height:auto;">
+    )
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(63, 62, 62);
+    color: white;
+    text-align: center;
+ }
+
+ #main-area{
+     background-color: rgb(129, 115, 209) !important;
+     margin-top: 3rem;
+     margin-bottom: 50px;
+ }
+
+ #title{
+     color:rgb(241, 241, 236);
+ }
+ body {background-color: rgb(207, 221, 213);}
+
+.img-thumbnail {padding: 30px
+
+}
+form {max-width: 700px;
+    margin: 0 auto;}
