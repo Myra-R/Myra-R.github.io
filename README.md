@@ -3,21 +3,20 @@
 # Portfolio 
 
 ## Purpose
-    why did i build this. highlight my expereince, marketing website, semantic/accessible 
+    to demonstrate my new skills and project accomplishments. hightlight my experience 
 
 ## what functions does it use
-    html/css/containers/
+    html/css/containers/javascript/JQuery/API/Ajax
 
 ## what techniques/styles 
-    this is made with bootstrap/css/font awesome????
+    this is made with bootstrap/css/font awesome
 
 ## link to the deployed site
-    myrar/github
+    https://myra-r.github.io/
 
 ## what is this for?
-    what is it
+hightlight my experience     
 
 ## Tech
     this portfolio leverages 
-        *bootstrap 4 (both compantants and the layout)
-
+        *bootstrap 4 (both components and the layout)
