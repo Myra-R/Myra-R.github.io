@@ -8,3 +8,8 @@ head {
     height: 100%;
 	background-image: linear-gradient(#e6aa2b, #f7dda7);
 }
+
+.link {
+    color: white;
+
+}
